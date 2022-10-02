@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/sittpaing123/KP-EVA.git /KP-EVA
+  git clone https://github.com/Kopaing12/KP-EVA.git /KP-EVA
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /KP-EVA
