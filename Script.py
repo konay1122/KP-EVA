@@ -16,11 +16,11 @@ Just Add Me To Your Groups As Admin 🤩"""
    ● Team TrojanzHex
       
 ✯ Bot Managed By :
-   ● @KOPAINGLAY15
-   ● @PAINGLAY15
-   ●              
+   ● @nas0055
+   
+            
 For your bot editing
-Contact :- @KOPAINGLAY15 """
+Contact :- @nas0055 """
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
